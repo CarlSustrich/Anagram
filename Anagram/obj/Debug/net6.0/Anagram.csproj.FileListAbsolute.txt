@@ -1,0 +1,15 @@
+/Users/carlsustrich/Epicodus/c#/Anagram.Solution/Anagram/bin/Debug/net6.0/Anagram
+/Users/carlsustrich/Epicodus/c#/Anagram.Solution/Anagram/bin/Debug/net6.0/Anagram.deps.json
+/Users/carlsustrich/Epicodus/c#/Anagram.Solution/Anagram/bin/Debug/net6.0/Anagram.runtimeconfig.json
+/Users/carlsustrich/Epicodus/c#/Anagram.Solution/Anagram/bin/Debug/net6.0/Anagram.dll
+/Users/carlsustrich/Epicodus/c#/Anagram.Solution/Anagram/bin/Debug/net6.0/Anagram.pdb
+/Users/carlsustrich/Epicodus/c#/Anagram.Solution/Anagram/obj/Debug/net6.0/Anagram.csproj.AssemblyReference.cache
+/Users/carlsustrich/Epicodus/c#/Anagram.Solution/Anagram/obj/Debug/net6.0/Anagram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carlsustrich/Epicodus/c#/Anagram.Solution/Anagram/obj/Debug/net6.0/Anagram.AssemblyInfoInputs.cache
+/Users/carlsustrich/Epicodus/c#/Anagram.Solution/Anagram/obj/Debug/net6.0/Anagram.AssemblyInfo.cs
+/Users/carlsustrich/Epicodus/c#/Anagram.Solution/Anagram/obj/Debug/net6.0/Anagram.csproj.CoreCompileInputs.cache
+/Users/carlsustrich/Epicodus/c#/Anagram.Solution/Anagram/obj/Debug/net6.0/Anagram.dll
+/Users/carlsustrich/Epicodus/c#/Anagram.Solution/Anagram/obj/Debug/net6.0/refint/Anagram.dll
+/Users/carlsustrich/Epicodus/c#/Anagram.Solution/Anagram/obj/Debug/net6.0/Anagram.pdb
+/Users/carlsustrich/Epicodus/c#/Anagram.Solution/Anagram/obj/Debug/net6.0/Anagram.genruntimeconfig.cache
+/Users/carlsustrich/Epicodus/c#/Anagram.Solution/Anagram/obj/Debug/net6.0/ref/Anagram.dll
